@@ -11,7 +11,7 @@ Samoyeds-Kernel requires the following dependencies:
 ### Get the Code
 
 ```shell
-git clone --recurse-submodules <TBD> Samoyeds-Kernel
+git clone --recurse-submodules https://github.com/guqiqi/Samoyeds-Kernel.git Samoyeds-Kernel
 cd Samoyeds-Kernel
 ```
 
