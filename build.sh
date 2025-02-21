@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # install dev tools
-sudo apt install -y libgoogle-glog-dev libboost-all-dev
+apt install -y libgoogle-glog-dev libboost-all-dev
 
 # unarchive cusparselt
 cd cusparselt && {
